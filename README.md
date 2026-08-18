@@ -13,7 +13,7 @@ After a few years at university, I also realised that I was quite interested in 
 I am currently conducting research for my master's thesis on biphasic recovery of coral reefs across the Great Barrier Reef.
 This involves a variety of statistical and multivariate analyses, including GLMMs, PERMANOVA, SIMPER, data visualisation and exploration, ecological and statistical modelling
 
-## 💻 Coding & data analysis
+## Coding & data analysis
 
 I'm curious when it comes to coding, so I've learned a few different languages and tools over the years. My experience varies quite a lot between them:
 
