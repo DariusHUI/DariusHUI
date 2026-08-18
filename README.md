@@ -17,11 +17,11 @@ This involves a variety of statistical and multivariate analyses, including GLMM
 
 I'm curious when it comes to coding, so I've learned a few different languages and tools over the years. My experience varies quite a lot between them:
 
- R — data wrangling, `ggplot2`, linear modelling, geometric morphometrics, PERMANOVA & SIMPER (`vegan`), etc.
- JavaScript — entry/intermediate level, with more experience using it for analysis in Google Earth Engine
- Python — currently learning
- MATLAB — some experience
- HTML & C++ — beginner, but hoping to improve
+* R — data wrangling, `ggplot2`, linear modelling, geometric morphometrics, PERMANOVA & SIMPER (`vegan`), etc.
+* JavaScript — entry/intermediate level, with more experience using it for analysis in Google Earth Engine
+* Python — currently learning
+* MATLAB — some experience
+* HTML & C++ — beginner, but hoping to improve
 
 I'm particularly interested in using programming and statistical modelling to answer ecological questions.
 
