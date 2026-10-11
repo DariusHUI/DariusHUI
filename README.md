@@ -21,7 +21,7 @@ I'm curious when it comes to coding, so I've learned a few different languages a
 * JavaScript — entry/intermediate level, with more experience using it for analysis in Google Earth Engine
 * Python — currently learning
 * MATLAB — some experience
-* HTML & C++ — beginner, but hoping to improve
+* HTML & CSS — beginner, but hoping to improve
 
 I'm particularly interested in using programming and statistical modelling to answer ecological questions.
 
